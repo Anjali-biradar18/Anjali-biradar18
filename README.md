@@ -27,38 +27,57 @@
 
 ## 🚀 Tech Stack
 
-### Languages
+<div align="center">
+
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql&theme=light" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=light" />
 </p>
-
-- Spring Boot
-- Spring MVC
-- Hibernate
-- JDBC
-- Servlets
-- REST APIs
-
-### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge"/>
 </p>
 
-### Tools
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
 </p>
 
----
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react&theme=light" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,maven,postman&theme=light" />
+</p>
+
+### ☁️ Other Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaMailSender-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+</div>
+
 
 # 💼 Experience
 
